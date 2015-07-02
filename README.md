@@ -1,5 +1,5 @@
 # java
-sample programs for palindrome
+sample program for palindrome
 class pal
 {
 	static int num=158945561;
