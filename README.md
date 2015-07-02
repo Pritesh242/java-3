@@ -18,6 +18,6 @@ class pal
 			System.out.println("the number is a palindrome");
 		}
 		else
-			System.out.println("the number is not a palindrome");
+			System.out.println("the number is not  palindrome");
 	}
 }
