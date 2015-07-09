@@ -7,7 +7,7 @@ class pal
 	static char ch[]=new char[s.length()];
 	public static void main(String arg[])
 	{
-		int j=0;
+		int j=0;;
 		for(int i=s.length()-1;i>=0;i--)
 		{
 		ch[j++]=s.charAt(i);
