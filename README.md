@@ -3,7 +3,7 @@ sample program for palindrome
 class pal
 {
 	static int num=158945561;
-	static String s=String.valueOf(nuwerm);
+	static String s=String.valueOf(nuwerm);asdasdad
 	static char ch[]=new char[s.length()];
 	public static void main(String arg[])
 	{
