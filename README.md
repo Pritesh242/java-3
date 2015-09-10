@@ -13,7 +13,7 @@ class pal
 		ch[j++]=s.charAt(i);
 		}
 		String rev=String.valueOf(ch);
-		if(s.equals(rev))SD
+		if(s.equals(rev))SDzfzdfs
 		{
 			System.out.println("the number is a palindrome");
 		}
