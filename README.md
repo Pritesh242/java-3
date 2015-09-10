@@ -19,5 +19,5 @@ class pal
 		}
 		else
 			System.out.println("the number is not  palindrome");
-	}
+	}zxcas
 }
